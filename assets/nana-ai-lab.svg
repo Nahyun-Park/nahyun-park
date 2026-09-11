@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">NANA AI LAB</title>
+  <desc id="desc">AI development and workflow automation. Build intelligently. Make work flow.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="400" gradientUnits="userSpaceOnUse"><stop stop-color="#101D30"/><stop offset="1" stop-color="#07111E"/></linearGradient>
+    <linearGradient id="line" x1="780" y1="80" x2="1130" y2="320" gradientUnits="userSpaceOnUse"><stop stop-color="#72F0CB"/><stop offset="1" stop-color="#508CBA"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#71889F" opacity=".15"/></pattern>
+  </defs>
+  <rect width="1200" height="400" rx="24" fill="url(#bg)"/>
+  <rect x="704" width="496" height="400" rx="24" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="398" rx="23" stroke="#25374A"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="56" y="48" width="32" height="32" rx="9" fill="#72F0CB"/>
+    <path d="M65 70V58L79 70V58" stroke="#0B1727" stroke-width="2.5" stroke-linejoin="round"/>
+    <text x="102" y="70" font-size="19" font-weight="700" letter-spacing="3" fill="#EAF3F9">NANA AI LAB</text>
+    <text x="56" y="165" font-size="53" font-weight="700" letter-spacing="-2" fill="#F1F6FC">Build intelligently.</text>
+    <text x="56" y="227" font-size="53" font-weight="700" letter-spacing="-2" fill="#72F0CB">Make work flow.</text>
+    <text x="58" y="272" font-size="18" fill="#B0C1D3">AI development &amp; workflow automation</text>
+    <path d="M58 325H678" stroke="#2B3B4E"/>
+    <text x="58" y="355" font-size="12" letter-spacing="2.5" fill="#A5B6CA">NAHYUN PARK</text>
+    <text x="678" y="355" text-anchor="end" font-size="12" letter-spacing="2" fill="#A5B6CA">IDEA → SYSTEM → IMPACT</text>
+  </g>
+  <g stroke="url(#line)" stroke-width="2">
+    <path d="M782 126H842Q866 126 866 150V200H915"/><path d="M782 278H842Q866 278 866 254V200"/>
+    <path d="M1003 200H1054Q1078 200 1078 176V126H1134"/><path d="M1003 200H1054Q1078 200 1078 224V278H1134"/>
+  </g>
+  <g fill="#132639" stroke="#3A566D">
+    <rect x="750" y="100" width="64" height="52" rx="13"/><rect x="750" y="252" width="64" height="52" rx="13"/>
+    <rect x="1104" y="100" width="64" height="52" rx="13"/><rect x="1104" y="252" width="64" height="52" rx="13"/>
+  </g>
+  <rect x="903" y="144" width="112" height="112" rx="28" fill="#163C3D" stroke="#72F0CB"/>
+  <rect x="913" y="154" width="92" height="92" rx="21" stroke="#72F0CB" stroke-opacity=".15"/>
+  <path d="M935 216L948 184L961 216M940 204H956M973 184V216" stroke="#8CF9D9" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <g stroke="#B3CADD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M772 120H792M772 126H792M772 132H786"/><path d="M773 277L780 284L792 272"/>
+    <path d="M1126 120H1146M1126 126H1140M1126 132H1146"/><path d="M1127 277L1134 284L1146 272"/>
+  </g>
+  <g fill="#72F0CB"><circle cx="866" cy="200" r="4"/><circle cx="1078" cy="200" r="4"/></g>
+</svg>
